@@ -64,7 +64,9 @@ Clone the repository to a directory of your choice, build and run the solution.
    ```
    git clone https://github.com/cgrpa/RPAChallenge-UiPath.git
    ```
-2. Change the argument in_strEntryDataPath to the location of the RPAChallenge data, it is located within the Data folder in the project folder.
+2. Change the argument in_strEntryDataPath argument in the Main.xaml workflow to the location of the RPAChallenge data, it is located within the Data folder in the project folder.
+```![image](https://user-images.githubusercontent.com/95618126/208202906-79cf0ac3-a68d-4dea-9616-fa5a2c8df4d2.png)
+```
 3. Run the project
 4. Bob's your uncle, fanny's your aunt
 
