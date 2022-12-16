@@ -66,6 +66,8 @@ Clone the repository to a directory of your choice, build and run the solution.
    ```
 2. Change the argument in_strEntryDataPath argument in the Main.xaml workflow to the location of the RPAChallenge data, it is located within the Data folder in the project folder.
 ![image](https://user-images.githubusercontent.com/95618126/208202944-50c642f2-518c-4992-a128-bafe3c493f9d.png)
+![image](https://user-images.githubusercontent.com/95618126/208202974-40aebfb0-85d1-42ed-a80c-7389fcfa2992.png)
+
 3. Run the project
 4. Bob's your uncle, fanny's your aunt
 
