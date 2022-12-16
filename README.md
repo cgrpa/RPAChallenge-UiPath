@@ -142,7 +142,7 @@ Project Link: [https://github.com/cgrpa/RPAChallenge-UiPath](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/cgrpa/RPAChallenge---CSharp.svg?style=for-the-badge
 [issues-url]: https://github.com/cgrpa/RPAChallenge-UiPath/issues
 [license-shield]: https://img.shields.io/github/license/cgrpa/RPAChallenge---CSharp.svg?style=for-the-badge
-[license-url]: https://github.com/cgrpa/RPAChallenge-UiPath/blob/master/license.txt
+[license-url]: https://github.com/cgrpa/RPAChallenge-UiPath/blob/main/license.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chegamble
 [product-screenshot]: images/screenshot.png
