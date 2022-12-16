@@ -1,0 +1,14 @@
+﻿{
+  "Id": "R-kuaG1X80mxAmYTZt-fQg",
+  "Reference": "1As7HvYgJ0yCCMoALDxjMQ/R-kuaG1X80mxAmYTZt-fQg",
+  "Name": "RPAChallenge Edge",
+  "Type": "App",
+  "Created": "2022-12-13T20:26:19.4492912Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-13T20:28:40.6733812Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

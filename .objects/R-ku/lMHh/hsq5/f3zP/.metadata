@@ -1,0 +1,13 @@
+﻿{
+  "Id": "f3zPkd2YiEaNoJsmDLV2vw",
+  "Reference": "1As7HvYgJ0yCCMoALDxjMQ/f3zPkd2YiEaNoJsmDLV2vw",
+  "ParentRef": "1As7HvYgJ0yCCMoALDxjMQ/hsq5ceZYU06AKqeP0osqXA",
+  "Name": "Address",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-13T20:28:40.8409073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-13T20:28:40.8409073Z"
+}
